@@ -61,3 +61,7 @@ gem 'thor', '0.19.4'
 group :production do
   gem 'pg'
 end
+
+gem 'rakuten_web_service' , '1.5.0'
+
+gem 'dotenv-rails'
